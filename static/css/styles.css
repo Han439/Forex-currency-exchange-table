@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    width: 60%;
+    margin: 30px auto 50px;
+}
+
+table tr td,
+table tr th {
+    text-align: right;
+}
+
+.border-red {
+    border: 2px solid red !important;
+}
